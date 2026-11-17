@@ -1,0 +1,6 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+minimumReleaseAgeExclude:
+  - "@xyflow/react@13.0.1"
+  - "@xyflow/system@1.0.0"
